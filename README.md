@@ -22,8 +22,8 @@
 ## ⚠️ Если файл не находится
 
 Вводи полный путь, например:
-- `/home/alex/VSCode/sharp/text.txt` (Linux)
-- `C:\Users\alex\Desktop\text.txt` (Windows)
+- `/home/!!!user(восклицательные знаки не нужно)/VSCode/sharp/text.txt` (Linux)
+- `C:\Users\!!!user(восклицательные знаки не нужно)\Desktop\text.txt` (Windows)
 
 ## 🛠 Требования
 
